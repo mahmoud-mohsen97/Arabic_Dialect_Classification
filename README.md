@@ -1,2 +1,2 @@
-# Arabic_Dialect_Classification
+# Task Defintion
 Many countries speak Arabic; however, each country has its own dialect, the aim of this task is to build a model that predicts the dialect given the text.
