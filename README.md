@@ -11,7 +11,7 @@ The dataset utilized in this project is a collection of Arabic sentences labeled
 4. Deployment 
 
 ## Results
-The Random Forest Model achieved an F1 score of 70%, while the RNN model achieved an F1 score of 82%.
+The Random Forest Model achieved an Macro-F1 score of 70%, while the RNN model achieved an Macro-F1 score of 82%.
 
 ## Credits
 This project was developed by:
